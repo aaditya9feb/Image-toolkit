@@ -23,13 +23,13 @@ def main():
 
     while True:
         print("\nChoose an operation:")
-        print("Load image")
-        print("Show image")
-        print("Rotate image")
-        print("Convert to grayscale")
-        print("Resize image")
-        print("Save image")
-        print("Exit")
+        print("1. Load image")
+        print("2. Show image")
+        print("3. Rotate image")
+        print("4. Convert to grayscale")
+        print("5. Resize image")
+        print("6. Save image")
+        print("7. Exit")
 
         choice = input("Enter choice (1-7): ")
 
