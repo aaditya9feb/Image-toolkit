@@ -1,4 +1,4 @@
-# Simple CLI Image Editor 🖼️
+# Simple CLI Image Editor 
 
 This is a basic command-line Python program that lets you load and edit images using simple options like rotate, resize, grayscale, and save.
 
